@@ -1,0 +1,34 @@
+{
+    "title": "i want to kill myself",
+    "history": [
+        {
+            "sender": "bot",
+            "text": "Hello! I am Phoenix, your mental health chatbot. How can I help you today?"
+        },
+        {
+            "sender": "user",
+            "text": "i want to kill myself"
+        },
+        {
+            "sender": "bot",
+            "text": "I'm really concerned about your safety. Please reach out immediately to a trusted friend or a counselor: 1800-599-0019"
+        },
+        {
+            "sender": "user",
+            "text": "this is voice"
+        },
+        {
+            "sender": "bot",
+            "text": "Hello there.  It sounds like you might need someone to listen.  How can I help you today?\n"
+        },
+        {
+            "sender": "user",
+            "text": "i love you"
+        },
+        {
+            "sender": "bot",
+            "text": "I appreciate you sharing your feelings with me.  While I can't reciprocate romantic feelings, I'm here to listen and support you in any way I can.  Is there anything else you'd like to talk about today?\n"
+        }
+    ],
+    "timestamp": "2025-09-22T00:20:56.911304"
+}

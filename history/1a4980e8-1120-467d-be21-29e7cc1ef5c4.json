@@ -1,0 +1,26 @@
+{
+    "title": "hi",
+    "history": [
+        {
+            "sender": "bot",
+            "text": "Hello! I am Phoenix, your mental health chatbot. How can I help you today?"
+        },
+        {
+            "sender": "user",
+            "text": "hi"
+        },
+        {
+            "sender": "bot",
+            "text": "Hi there!  It's nice to meet you.  How are you doing today?\n"
+        },
+        {
+            "sender": "user",
+            "text": "hhu"
+        },
+        {
+            "sender": "bot",
+            "text": "Hey there.  \"Hhu\" doesn't tell me much. Is there something you'd like to talk about?  Even if it seems small, I'm here to listen without judgment.  Let me know what's on your mind.\n"
+        }
+    ],
+    "timestamp": "2025-09-20T12:13:28.673919"
+}

@@ -1,0 +1,18 @@
+{
+    "title": "im stressed",
+    "history": [
+        {
+            "sender": "bot",
+            "text": "Hello! I am Phoenix, your mental health chatbot. How can I help you today?"
+        },
+        {
+            "sender": "user",
+            "text": "im stressed"
+        },
+        {
+            "sender": "bot",
+            "text": "I hear you.  It sounds like you're feeling stressed right now.  Tell me more about what's causing you stress.  Taking a few deep breaths might help, too.  We can work through this together.\n"
+        }
+    ],
+    "timestamp": "2025-09-20T06:11:26.366538"
+}

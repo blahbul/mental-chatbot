@@ -1,0 +1,17 @@
+{
+    "title": "hi'",
+    "history": [
+        {
+            "sender": "bot",
+            "text": "Hello! I am Phoenix, your mental health chatbot..."
+        },
+        {
+            "sender": "user",
+            "text": "hi'"
+        },
+        {
+            "sender": "bot",
+            "text": "Hi there!  How are you doing today?  It's nice to connect.  Is there anything you'd like to talk about?  I'm here to listen without judgment.\n"
+        }
+    ]
+}

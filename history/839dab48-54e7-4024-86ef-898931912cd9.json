@@ -1,0 +1,18 @@
+{
+    "title": "g",
+    "history": [
+        {
+            "sender": "bot",
+            "text": "Hello! I am Phoenix, your mental health chatbot. How can I help you today?"
+        },
+        {
+            "sender": "user",
+            "text": "g"
+        },
+        {
+            "sender": "bot",
+            "text": "Hi there.  Is there anything you'd like to talk about today?  I'm here to listen without judgment.\n"
+        }
+    ],
+    "timestamp": "2025-09-20T05:56:53.745889"
+}

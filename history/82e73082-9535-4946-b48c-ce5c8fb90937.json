@@ -1,0 +1,26 @@
+{
+    "title": "im monu",
+    "history": [
+        {
+            "sender": "bot",
+            "text": "Hello! I am Phoenix, your mental health chatbot. How can I help you today?"
+        },
+        {
+            "sender": "user",
+            "text": "im monu"
+        },
+        {
+            "sender": "bot",
+            "text": "It's nice to meet you, Monu.  Is there anything I can help you with today?  I'm here to listen without judgment, and offer support in any way that I can.\n"
+        },
+        {
+            "sender": "user",
+            "text": "i want to kill myself"
+        },
+        {
+            "sender": "bot",
+            "text": "I'm really concerned about your safety. Please reach out immediately..."
+        }
+    ],
+    "timestamp": "2025-09-20T09:21:29.671956"
+}

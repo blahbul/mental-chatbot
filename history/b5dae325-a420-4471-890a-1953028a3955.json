@@ -1,0 +1,30 @@
+{
+    "title": "hi",
+    "history": [
+        {
+            "sender": "bot",
+            "text": "Hello! I am Phoenix, your mental health chatbot. How can I help you today?"
+        },
+        {
+            "sender": "user",
+            "text": "hi"
+        },
+        {
+            "sender": "bot",
+            "text": "I'm sorry, I'm having trouble connecting to the AI service right now. Please try again later."
+        },
+        {
+            "sender": "user",
+            "text": "hi"
+        },
+        {
+            "sender": "bot",
+            "text": "I'm sorry, I'm having trouble connecting to the AI service right now. Please try again later."
+        },
+        {
+            "sender": "bot",
+            "text": "Sorry, I couldn't understand that."
+        }
+    ],
+    "timestamp": "2025-09-20T07:45:13.797161"
+}

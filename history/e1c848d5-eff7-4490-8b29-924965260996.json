@@ -1,0 +1,17 @@
+{
+    "title": "i feel tired",
+    "history": [
+        {
+            "sender": "bot",
+            "text": "Hello! I am Phoenix, your mental health chatbot. How can I help you today?"
+        },
+        {
+            "sender": "user",
+            "text": "i feel tired"
+        },
+        {
+            "sender": "bot",
+            "text": "I hear you. Feeling tired is really common, especially for students. Is there anything specific making you feel this way, like a lot of studying or lack of sleep? Taking a short break or finding ways to relax might help. What do you usually do to unwind?\n"
+        }
+    ]
+}

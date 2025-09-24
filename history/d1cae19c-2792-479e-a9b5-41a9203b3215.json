@@ -1,0 +1,25 @@
+{
+    "title": "ill die",
+    "history": [
+        {
+            "sender": "bot",
+            "text": "Hello! I am Phoenix, your mental health chatbot..."
+        },
+        {
+            "sender": "user",
+            "text": "ill die"
+        },
+        {
+            "sender": "bot",
+            "text": "I'm really concerned about your safety..."
+        },
+        {
+            "sender": "user",
+            "text": "ill kill myself"
+        },
+        {
+            "sender": "bot",
+            "text": "I'm really concerned about your safety..."
+        }
+    ]
+}

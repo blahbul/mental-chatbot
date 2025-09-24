@@ -1,0 +1,34 @@
+{
+    "title": "hi",
+    "history": [
+        {
+            "sender": "bot",
+            "text": "Hello! I am Phoenix, your mental health chatbot. How can I help you today?"
+        },
+        {
+            "sender": "user",
+            "text": "hi"
+        },
+        {
+            "sender": "bot",
+            "text": "Hi there!  It's nice to meet you. How are you doing today?\n"
+        },
+        {
+            "sender": "user",
+            "text": "hey"
+        },
+        {
+            "sender": "bot",
+            "text": "Hey there!  How are you doing today?\n"
+        },
+        {
+            "sender": "user",
+            "text": "sdfhjs"
+        },
+        {
+            "sender": "bot",
+            "text": "It looks like you might have just pressed some random keys.  Is there something you'd like to talk about?  I'm here to listen without judgment, whatever's on your mind.  Even if it seems small or insignificant, I'm happy to be here for you.\n"
+        }
+    ],
+    "timestamp": "2025-09-20T11:46:30.926211"
+}

@@ -1,0 +1,26 @@
+{
+    "title": "studies",
+    "history": [
+        {
+            "sender": "bot",
+            "text": "Hello! I am Phoenix, your mental health chatbot. How can I help you today?"
+        },
+        {
+            "sender": "user",
+            "text": "studies"
+        },
+        {
+            "sender": "bot",
+            "text": "\"Studies\" is a broad term.  To help me understand what you'd like to talk about, could you tell me more?  Are you thinking about:\n\n* **Your own studies?**  Are you a student?  Are you feeling stressed about exams, assignments, or deadlines?  Are you struggling with a particular subject or feeling overwhelmed by your workload?\n* **Academic studies in general?** Are you interested in a specific field of study?  Perhaps you're curious about research in a particular area of psychology or mental health?\n* **Studies related to a specific mental health concern?** Are you researching a condition you or someone you know is experiencing?  Knowing the specific area would help me give you more relevant information.\n\nPlease tell me more so I can offer you the best support.  I'm here to listen and help in any way I can.\n"
+        },
+        {
+            "sender": "user",
+            "text": "i feel anxious cause of studies"
+        },
+        {
+            "sender": "bot",
+            "text": "I hear you.  It's completely understandable to feel anxious about studies.  School and the pressure to succeed can be incredibly stressful.  Can you tell me a little more about what's making you feel anxious?  Knowing the specifics will help me understand better how to support you.  For example, is it:\n\n* **The workload?**  Are you feeling overwhelmed by the amount of work you have?\n* **Specific subjects?** Are you struggling with a particular subject or topic?\n* **Exams or deadlines?** Is the pressure of upcoming tests or assignments contributing to your anxiety?\n* **Comparison to others?** Are you comparing yourself to classmates and feeling inadequate?\n* **Something else entirely?**\n\nNo matter the reason, please know you're not alone in feeling this way.  Many students experience anxiety related to their studies.  Let's talk through it and see what we can do to help you manage it.  Even just talking about it can sometimes make a big difference.\n"
+        }
+    ],
+    "timestamp": "2025-09-20T12:24:47.955647"
+}

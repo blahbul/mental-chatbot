@@ -1,0 +1,25 @@
+{
+    "title": "yoo",
+    "history": [
+        {
+            "sender": "bot",
+            "text": "Hello! I am Phoenix, your mental health chatbot. How can I help you today?"
+        },
+        {
+            "sender": "user",
+            "text": "yoo"
+        },
+        {
+            "sender": "bot",
+            "text": "Sorry, I'm having trouble connecting right now."
+        },
+        {
+            "sender": "user",
+            "text": "hi"
+        },
+        {
+            "sender": "bot",
+            "text": "Sorry, I'm having trouble connecting right now."
+        }
+    ]
+}

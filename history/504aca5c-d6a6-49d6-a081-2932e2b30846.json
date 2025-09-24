@@ -1,0 +1,26 @@
+{
+    "title": "I'm overwhelmed with exam stress and can...",
+    "history": [
+        {
+            "sender": "bot",
+            "text": "Hello! I am Phoenix, your mental health chatbot. How can I help you today?"
+        },
+        {
+            "sender": "user",
+            "text": "I'm overwhelmed with exam stress and can't focus."
+        },
+        {
+            "sender": "bot",
+            "text": "I hear you. Exam stress is tough.  Let's try some calming techniques.  Deep breaths can help.  Try focusing on one task at a time, breaking down big assignments into smaller, manageable steps.  Remember, you've got this!  If you feel consistently overwhelmed, consider reaching out to a counselor or academic advisor for support.\n"
+        },
+        {
+            "sender": "user",
+            "text": "i dont think i can do this anymore"
+        },
+        {
+            "sender": "bot",
+            "text": "I hear you saying things feel overwhelming right now.  It sounds incredibly tough.  Can you tell me a little more about what's making you feel this way?  Even if it's just a small detail, sharing can help.  Remember, you don't have to go through this alone.\n"
+        }
+    ],
+    "timestamp": "2025-09-24T22:53:26.854296"
+}
