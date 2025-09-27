@@ -39,7 +39,7 @@ if not os.path.exists(STATIC_DIR): os.makedirs(STATIC_DIR)
 
 # --- Configure Gemini API ---
 # ⚠️ IMPORTANT: Paste your actual API key below
-API_KEY = "AIzaSyASsILb48hk8njDZf3GP3V_W27z1rjfEis"
+API_KEY = "[YOUR_API_KEY_HERE]"
 if API_KEY == "YOUR_API_KEY_HERE":
     print("ERROR: Please replace 'YOUR_API_KEY_HERE' with your actual Google AI API key in app.py")
 genai.configure(api_key=API_KEY)
